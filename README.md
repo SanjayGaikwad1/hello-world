@@ -1,3 +1,3 @@
 # hello-world
 My First directory
-removing Edit
+removing Edit from previous readme file
